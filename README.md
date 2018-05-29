@@ -1,0 +1,3 @@
+## Grounded Semantic Mapping Network (Coming Soon...)
+
+This is the repository for the paper "Following High-level Navigation Instructions on a Simulated Quadcopter with Imitation Learning". The content is coming soon...
